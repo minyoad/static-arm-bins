@@ -22,6 +22,7 @@ A collection of statically compiled ARM binaries for debugging and runtime analy
 -	telnetd-static (https://github.com/Troll338cz/mini_telnetd)
 -	lspci-static
 -	setpci-static
+-   toybox-arm71 (https://github.com/landley/toybox/)
 
 Note: This collection of static binaries is provided as-is. Some of them are compiled by me, using the usual CFLAGS/LDFLAGS=-static incantations in the Makefiles; some contributed by friends, and some collected from the world wide web.
 
@@ -50,4 +51,5 @@ bca854d2209e2cdd5cb83fdb88d3e66543efdf5890c02eb15f555c5d6290b360  lsof-armel-sta
 3fc7b82244e1da23f6ada3f270ec7ae76d59f3ec4f5c05e0560206e575283cd1  telnetd-static
 995d2acd901b92c0e039f0e168e951e9408c817ffb71fd853c55c811cacbb87d  lspci-static
 92baf98acc85b73234fcb776eb034fb2c226252ab6462826c23dd15540ca9a62  setpci-static
+413f3f53331f1c893157c37a6b709d09859cb23460edb800a6fbd7b79024a558  toybox-armv7l
 ```
